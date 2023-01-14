@@ -1,0 +1,7 @@
+D:\ASPNET\Movies-App-with-Angular-11-and-ASP.NET-Core-5\MoviesAPI\obj\Debug\net7.0\moviesapi.csproj.AssemblyReference.cache
+D:\ASPNET\Movies-App-with-Angular-11-and-ASP.NET-Core-5\MoviesAPI\obj\Debug\net7.0\moviesapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPNET\Movies-App-with-Angular-11-and-ASP.NET-Core-5\MoviesAPI\obj\Debug\net7.0\moviesapi.AssemblyInfoInputs.cache
+D:\ASPNET\Movies-App-with-Angular-11-and-ASP.NET-Core-5\MoviesAPI\obj\Debug\net7.0\moviesapi.AssemblyInfo.cs
+D:\ASPNET\Movies-App-with-Angular-11-and-ASP.NET-Core-5\MoviesAPI\obj\Debug\net7.0\moviesapi.csproj.CoreCompileInputs.cache
+D:\ASPNET\Movies-App-with-Angular-11-and-ASP.NET-Core-5\MoviesAPI\obj\Debug\net7.0\moviesapi.MvcApplicationPartsAssemblyInfo.cs
+D:\ASPNET\Movies-App-with-Angular-11-and-ASP.NET-Core-5\MoviesAPI\obj\Debug\net7.0\moviesapi.MvcApplicationPartsAssemblyInfo.cache

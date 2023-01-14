@@ -1,0 +1,17 @@
+npm install -g @angular/cli@latest
+ng --version
+dotnet tool install -global dotnet-ef
+dotnet ef
+ng serve -- compile and run   
+
+ctr+k+s --- save everything
+dotnet new [project]
+
+////////////////////
+Angular extension
+///////////////////
+- angular language service
+- c# for visual studio code  --- enables you to develop c# in VSC
+
+**for certification issue 
+-- dotnet dev-certs https --trus
